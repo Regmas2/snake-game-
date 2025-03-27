@@ -1,0 +1,12 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Center everything horizontally */
+    font-family: sans-serif;
+    background-color: #f0f0f0; /* Light grey background */
+}
+
+#gameCanvas {
+    border: 5px solid black; /* Add a border around the game area */
+    background-color: #ffffff; /* White background for the canvas */
+}
